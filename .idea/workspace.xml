@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="012bfedb-6fd1-457d-a308-9e7d12c8352f" name="Changes" comment="" />
+    <list default="true" id="1c652cf7-c059-4d71-a642-6598b8a00bfd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,68 +15,42 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JBa02dQrb2b57cJ52W1nanttLA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2JU7pSOE7T7vuSIOFLXDCtZsRZ2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Я\WebstormProjects\Calc\img" />
+      <recent name="C:\Users\Батя в здании\WebstormProjects\Calculator\img" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="012bfedb-6fd1-457d-a308-9e7d12c8352f" name="Changes" comment="" />
-      <created>1671553703813</created>
+      <changelist id="1c652cf7-c059-4d71-a642-6598b8a00bfd" name="Changes" comment="" />
+      <created>1672120990697</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671553703813</updated>
-      <workItem from="1671553705334" duration="52000" />
-      <workItem from="1671553781715" duration="621000" />
-      <workItem from="1671626075948" duration="197000" />
-      <workItem from="1671626483483" duration="4896000" />
-      <workItem from="1671632447401" duration="40000" />
-      <workItem from="1671635326991" duration="136000" />
-      <workItem from="1671716750084" duration="2566000" />
-      <workItem from="1671720747783" duration="185000" />
-      <workItem from="1671782632102" duration="10049000" />
-      <workItem from="1671804768893" duration="132000" />
-      <workItem from="1671805075858" duration="725000" />
-      <workItem from="1671876685404" duration="6506000" />
+      <updated>1672120990697</updated>
+      <workItem from="1672120991977" duration="5776000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
