@@ -1,8 +1,9 @@
 body {
-    background-color: #141313;
+    background-color: #1ce7dd;
     margin: 0;
     padding: 0;
     min-width: 200px;
+    transition: 0.5s;
 }
 
 /* container */
@@ -34,7 +35,7 @@ body {
 
 /* display */
 .display {
-    background-color: #2f3332;
+    background-color: white;
     border-radius: 6px;
 
     display: grid;
@@ -93,9 +94,10 @@ body {
     text-decoration: none;
     border: none;
 
-    background-color: #2f3332;
-    color: white;
+    background-color: white;
+    color: #2f3332;
     font-family: 'Rubik 80s Fade', cursive;
+
     font-size: 20px;
 
     cursor: pointer;
@@ -193,7 +195,7 @@ body {
     font-family: 'Comfortaa', cursive;
     width: 150px;
 
-    background-image: url("./img/Sun.svg");
+    background-image: url("./img/Moon.svg");
     background-repeat: no-repeat;
     background-position: center left;
 
@@ -207,6 +209,7 @@ body {
 @media screen and (max-width: 768px) {
     .main-container {
         justify-content: flex-start;
+        margin: 10px;
     }
     .title {
         font-size: 30px;
@@ -215,6 +218,16 @@ body {
         display: flex;
         flex-direction: column;
         max-width: 150px;
+    }
+}
+@media screen and (max-width: 280px) {
+    .calc-container {
+        grid-auto-rows: 60px;
+    }
+}
+@media screen and (max-width: 240px) {
+    .calc-container {
+        grid-auto-rows: 40px;
     }
 }
 
