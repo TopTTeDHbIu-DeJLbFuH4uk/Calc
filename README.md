@@ -1,2 +1,2 @@
-# Calc V1.0.0
+# Calc version 1.0.0
  
