@@ -155,7 +155,7 @@ body {
     text-decoration: none;
     width: 100px;
 
-    background-image: url("./img/GitHub.svg");
+    background-image: url("./images/GitHub.svg");
     background-repeat: no-repeat;
     background-position: center left;
 
@@ -194,7 +194,7 @@ body {
     font-family: 'Comfortaa', cursive;
     width: 150px;
 
-    background-image: url("./img/Sun.svg");
+    background-image: url("./images/Sun.svg");
     background-repeat: no-repeat;
     background-position: center left;
 
